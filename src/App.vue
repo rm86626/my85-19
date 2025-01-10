@@ -1,4 +1,5 @@
 <template>
+  <h1>好好学习，天天向上</h1>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
